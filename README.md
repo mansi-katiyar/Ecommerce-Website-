@@ -105,7 +105,7 @@ JWT_SECRET=your_secret_key
 
  Setup CI/CD deployment
 
-🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 Steps:
@@ -118,6 +118,6 @@ Commit changes (git commit -m "feat: add feature")
 
 Push to branch and open a PR
 
-📜 License
+##📜 License
 
 Specify a license (e.g., MIT) here.
