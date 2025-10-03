@@ -85,3 +85,39 @@ npm install
 npm start
 👉 App will run on: http://localhost:3000
 
+🔧 Environment Variables
+
+Create a .env file inside server/ with:
+
+PORT=5000
+DB_URI=mongodb://localhost:27017/ecommerce
+JWT_SECRET=your_secret_key
+
+##🚀 Roadmap / To-Do
+
+ Add payment gateway (Stripe / Razorpay)
+
+ Implement product filters & search
+
+ Add image upload functionality
+
+ Improve test coverage (unit + integration)
+
+ Setup CI/CD deployment
+
+🤝 Contributing
+
+Contributions are welcome!
+Steps:
+
+Fork this repo
+
+Create a feature branch (git checkout -b feat/feature-name)
+
+Commit changes (git commit -m "feat: add feature")
+
+Push to branch and open a PR
+
+📜 License
+
+Specify a license (e.g., MIT) here.
