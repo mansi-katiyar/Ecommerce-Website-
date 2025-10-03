@@ -34,6 +34,9 @@ The project showcases:
 
 ---
 
+
+
+
 ## 📂 Repository Structure
 ├─ client/ # Frontend (React)
 
@@ -93,7 +96,9 @@ PORT=5000
 DB_URI=mongodb://localhost:27017/ecommerce
 JWT_SECRET=your_secret_key
 
-##🚀 Roadmap / To-Do
+---
+
+🚀 Roadmap / To-Do
 
  Add payment gateway (Stripe / Razorpay)
 
@@ -104,8 +109,8 @@ JWT_SECRET=your_secret_key
  Improve test coverage (unit + integration)
 
  Setup CI/CD deployment
-
-## Contributing
+---
+🤝 Contributing
 
 Contributions are welcome!
 Steps:
@@ -117,7 +122,7 @@ Create a feature branch (git checkout -b feat/feature-name)
 Commit changes (git commit -m "feat: add feature")
 
 Push to branch and open a PR
-
-##📜 License
+---
+📜 License
 
 Specify a license (e.g., MIT) here.
